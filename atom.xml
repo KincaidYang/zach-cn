@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小泽的小屋</title>
+  
+  <subtitle>一个有趣的灵魂</subtitle>
+  <link href="https://zachyang.cn/atom.xml" rel="self"/>
+  
+  <link href="https://zachyang.cn/"/>
+  <updated>2022-09-30T16:00:00.000Z</updated>
+  <id>https://zachyang.cn/</id>
+  
+  <author>
+    <name>小泽</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World！</title>
+    <link href="https://zachyang.cn/articles/20220930"/>
+    <id>https://zachyang.cn/articles/20220930</id>
+    <published>2022-09-30T16:00:00.000Z</published>
+    <updated>2022-09-30T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>Hello World! 这一句问候几乎已经是所有博客的第一篇文章，似乎在向世界宣告着它的到来。</p></blockquote><h2 id="迷茫"><a href="#迷茫" class="headerlink" title="迷茫"></a>迷茫</h2><p>最近一直在思考一个问题：应该做一个什么样的个人网站？</p><p>我做的第一个网站名叫做<a href="https://r2wind.cn/">归去如风</a>，从17年开始做起，一直没有什么明确的目标，先后变成了我们两个班级（初中、高中）的班集体网站，变成了我的个人网盘、变成了一个转载各种文章的“垃圾堆”……最后，我把它暂停掉了，几乎有一年多的时间都没有再继续更新。</p><p>起名归去如风是因为我向往风这种无形的力量，来去自如，自由自在，也因为我热爱着自然，喜欢户外。最初的想法是好的，写写我的各种日常，记录一下我的生活。但最终事与愿违，从去年恢复更新开始，我只写过一篇记录我个人生活的文章，其他基本上都是记录各种在做技术支持期间碰到的各种共性问题，最终导致其变成了一个技术博客。</p><h2 id="反思"><a href="#反思" class="headerlink" title="反思"></a>反思</h2><p>我有时也在思考，把之前的网站做成那样真的是我不想要的嘛？</p><p>仔细想想也并不是，因为潜意识并没有觉得什么不妥，似乎这就是我想要的，所以我也并不打算“临崖勒马”了，既然不能走，那我就像风一样在合规的框架下自由自在的飞翔吧。</p><h2 id="改变"><a href="#改变" class="headerlink" title="改变"></a>改变</h2><p>既然已经不打算阻止，那就重开一个站吧，这个站相对来讲会比较佛系，不会有太频繁的更新，因为不想把更新当作一种任务，想到什么就写一些什么，这样也能让我更加专注于记录，而不是为了更新而更新。</p><p>起名为小屋更多的意思是把他当作一个港湾，一个小小的屋子，可以让我在这里记录一些自己的想法，也可以让我在这里找到一些自己的回忆。正所谓回忆让生命完美：她寄托着所有人的希望，是梦的光点，是幸福的港湾，是轮回的开始……</p><h2 id="未来"><a href="#未来" class="headerlink" title="未来"></a>未来</h2><p>未来还没有想好，随心而去吧。</p><p>不过可以肯定的是，这个站不会像之前那样，不会再有太多的技术文章，我想要的是一个可以记录自我的地方，一个可以让我找到自己的地方。</p>]]></content>
+    
+    
+    <summary type="html">Hello World! 这一句问候几乎已经是所有博客的第一篇文章，似乎在向世界宣告着它的到来。</summary>
+    
+    
+    
+    <category term="公告" scheme="https://zachyang.cn/categories/%E5%85%AC%E5%91%8A/"/>
+    
+    
+    <category term="思考" scheme="https://zachyang.cn/tags/%E6%80%9D%E8%80%83/"/>
+    
+  </entry>
+  
+</feed>
